@@ -1,0 +1,12 @@
+/conf/
+/staticbkincome/
+/staticdata/
+/step0treatrawdata/
+/step1loadtransactions/
+/step2loans/
+/step2storage/
+/step3statements/
+/step4reconciliation/
+/step5fiscalyearend/
+/step6RealTimeExposure/
+/step8all/

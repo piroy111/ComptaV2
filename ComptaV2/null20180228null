@@ -1,0 +1,326 @@
+#Date,Comment,BKAsset,Amount,BKAccount,BKIncome,BKPrice
+20180301,788552,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180301,788552,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180301,788552,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180301,Loss due to loan of 788552,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180301,Gain due to loan of 788552,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180301,788781,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180301,788781,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180301,788781,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180301,Loss due to loan of 788781,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180301,Gain due to loan of 788781,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180301,MA21419457-0542,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180301,MA21419457-0542,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180301,MA21419457-0542,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180301,Loss due to loan of MA21419457-0542,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180301,Gain due to loan of MA21419457-0542,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180301,MA21419457-0544,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180301,MA21419457-0544,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180301,MA21419457-0544,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180301,Loss due to loan of MA21419457-0544,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180301,Gain due to loan of MA21419457-0544,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180301,MA21419457-0554,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180301,MA21419457-0554,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180301,MA21419457-0554,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180301,Loss due to loan of MA21419457-0554,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180301,Gain due to loan of MA21419457-0554,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180302,MA21419457-0546,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180302,MA21419457-0546,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180302,MA21419457-0546,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180302,Loss due to loan of MA21419457-0546,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180302,Gain due to loan of MA21419457-0546,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180302,MA21419457-0569,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180302,MA21419457-0569,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180302,MA21419457-0569,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180302,Loss due to loan of MA21419457-0569,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180302,Gain due to loan of MA21419457-0569,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180302,A000587,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180302,A000587,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180302,A000587,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180302,Loss due to loan of A000587,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180302,Gain due to loan of A000587,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180302,788882,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180302,788882,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180302,788882,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180302,Loss due to loan of 788882,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180302,Gain due to loan of 788882,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180302,788858,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180302,788858,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180302,788858,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180302,Loss due to loan of 788858,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180302,Gain due to loan of 788858,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180305,788763,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180305,788763,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180305,788763,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180305,Loss due to loan of 788763,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180305,Gain due to loan of 788763,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180308,D04851,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180308,D04851,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180308,D04851,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180308,Loss due to loan of D04851,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180308,Gain due to loan of D04851,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180308,D06298,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180308,D06298,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180308,D06298,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180308,Loss due to loan of D06298,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180308,Gain due to loan of D06298,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180308,D07107,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180308,D07107,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180308,D07107,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180308,Loss due to loan of D07107,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180308,Gain due to loan of D07107,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180308,D08454,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180308,D08454,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180308,D08454,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180308,Loss due to loan of D08454,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180308,Gain due to loan of D08454,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180309,A000370,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180309,A000370,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180309,A000370,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180309,Loss due to loan of A000370,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180309,Gain due to loan of A000370,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180309,MA21419457-0548,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180309,MA21419457-0548,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180309,MA21419457-0548,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180309,Loss due to loan of MA21419457-0548,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180309,Gain due to loan of MA21419457-0548,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180309,788578,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180309,788578,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180309,788578,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180309,Loss due to loan of 788578,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180309,Gain due to loan of 788578,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180312,D04778,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180312,D04778,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180312,D04778,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180312,Loss due to loan of D04778,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180312,Gain due to loan of D04778,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180314,D04579,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180314,D04579,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180314,D04579,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180314,Loss due to loan of D04579,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180314,Gain due to loan of D04579,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180314,D05599,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180314,D05599,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180314,D05599,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180314,Loss due to loan of D05599,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180314,Gain due to loan of D05599,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180314,D04668,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180314,D04668,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180314,D04668,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180314,Loss due to loan of D04668,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180314,Gain due to loan of D04668,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180315,788902,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180315,788902,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180315,788902,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180315,Loss due to loan of 788902,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180315,Gain due to loan of 788902,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180316,MA21419457-0561,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180316,MA21419457-0561,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180316,MA21419457-0561,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180316,Loss due to loan of MA21419457-0561,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180316,Gain due to loan of MA21419457-0561,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180316,A000482,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180316,A000482,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180316,A000482,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180316,Loss due to loan of A000482,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180316,Gain due to loan of A000482,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180318,MA21419457-0541,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180318,MA21419457-0541,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180318,MA21419457-0541,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180318,Loss due to loan of MA21419457-0541,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180318,Gain due to loan of MA21419457-0541,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180318,MA21419457-0543,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180318,MA21419457-0543,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180318,MA21419457-0543,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180318,Loss due to loan of MA21419457-0543,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180318,Gain due to loan of MA21419457-0543,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180318,MA21419457-0550,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180318,MA21419457-0550,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180318,MA21419457-0550,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180318,Loss due to loan of MA21419457-0550,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180318,Gain due to loan of MA21419457-0550,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180318,MA21419457-0556,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180318,MA21419457-0556,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180318,MA21419457-0556,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180318,Loss due to loan of MA21419457-0556,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180318,Gain due to loan of MA21419457-0556,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180318,MA21419457-0563,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180318,MA21419457-0563,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180318,MA21419457-0563,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180318,Loss due to loan of MA21419457-0563,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180318,Gain due to loan of MA21419457-0563,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180318,MA21419457-0567,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180318,MA21419457-0567,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180318,MA21419457-0567,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180318,Loss due to loan of MA21419457-0567,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180318,Gain due to loan of MA21419457-0567,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180318,MA21419457-0570,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180318,MA21419457-0570,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180318,MA21419457-0570,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180318,Loss due to loan of MA21419457-0570,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180318,Gain due to loan of MA21419457-0570,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,788907,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,788907,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180319,788907,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180319,Loss due to loan of 788907,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of 788907,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D04885,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D04885,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D04885,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D04885,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D04885,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D04986,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D04986,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D04986,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D04986,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D04986,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D05007,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D05007,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D05007,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D05007,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D05007,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D05040,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D05040,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D05040,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D05040,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D05040,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D05567,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D05567,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D05567,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D05567,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D05567,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D05859,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D05859,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D05859,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D05859,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D05859,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D05892,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D05892,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D05892,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D05892,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D05892,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D06072,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D06072,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D06072,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D06072,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D06072,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D06242,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D06242,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D06242,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D06242,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D06242,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D06295,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D06295,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D06295,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D06295,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D06295,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D06423,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D06423,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D06423,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D06423,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D06423,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D06426,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D06426,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D06426,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D06426,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D06426,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D07256,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D07256,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D07256,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D07256,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D07256,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D07266,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D07266,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D07266,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D07266,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D07266,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D07300,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D07300,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D07300,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D07300,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D07300,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D07383,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D07383,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D07383,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D07383,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D07383,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D07867,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D07867,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D07867,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D07867,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D07867,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D08097,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D08097,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D08097,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D08097,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D08097,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D08425,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D08425,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D08425,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D08425,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D08425,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D08516,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D08516,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D08516,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D08516,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D08516,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180319,D08551,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180319,D08551,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180319,D08551,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180319,Loss due to loan of D08551,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180319,Gain due to loan of D08551,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180320,788857,GOLD BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180320,788857,GOLD LOAN OZ,-3.215074657,contact@bunker-group.com,Loan GOLD,NaN
+20180320,788857,GOLD LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan GOLD,NaN
+20180320,Loss due to loan of 788857,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180320,Gain due to loan of 788857,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180321,MA21419457-0547,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180321,MA21419457-0547,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180321,MA21419457-0547,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180321,Loss due to loan of MA21419457-0547,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180321,Gain due to loan of MA21419457-0547,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180321,D05590,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180321,D05590,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180321,D05590,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180321,Loss due to loan of D05590,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180321,Gain due to loan of D05590,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180321,D06307,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180321,D06307,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180321,D06307,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180321,Loss due to loan of D06307,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180321,Gain due to loan of D06307,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180322,D05420,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180322,D05420,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180322,D05420,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180322,Loss due to loan of D05420,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180322,Gain due to loan of D05420,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180326,MA21419457-0555,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180326,MA21419457-0555,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180326,MA21419457-0555,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180326,Loss due to loan of MA21419457-0555,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180326,Gain due to loan of MA21419457-0555,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180326,MA21419457-0557,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180326,MA21419457-0557,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180326,MA21419457-0557,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180326,Loss due to loan of MA21419457-0557,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180326,Gain due to loan of MA21419457-0557,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180326,MA21419457-0565,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180326,MA21419457-0565,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180326,MA21419457-0565,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180326,Loss due to loan of MA21419457-0565,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180326,Gain due to loan of MA21419457-0565,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180327,D06990,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180327,D06990,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180327,D06990,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180327,Loss due to loan of D06990,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180327,Gain due to loan of D06990,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180327,D07610,SILVER BAR OZ,-32.1507466,pierre.roy@hotmail.com,Refiner bars,NaN
+20180327,D07610,SILVER LOAN OZ,-32.1507466,contact@bunker-group.com,Loan SILVER,NaN
+20180327,D07610,SILVER LOAN OZ,32.1507466,pierre.roy@hotmail.com,Loan SILVER,NaN
+20180327,Loss due to loan of D07610,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180327,Gain due to loan of D07610,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
+20180327,MA21419457-0545,PLATINUM BAR OZ,-3.215074657,pierre.roy@hotmail.com,Refiner bars,NaN
+20180327,MA21419457-0545,PLATINUM LOAN OZ,-3.215074657,contact@bunker-group.com,Loan PLATINUM,NaN
+20180327,MA21419457-0545,PLATINUM LOAN OZ,3.215074657,pierre.roy@hotmail.com,Loan PLATINUM,NaN
+20180327,Loss due to loan of MA21419457-0545,USD,-0.0,contact@bunker-group.com,Loan_cost,NaN
+20180327,Gain due to loan of MA21419457-0545,USD,0.0,pierre.roy@hotmail.com,Loan_cost,NaN
